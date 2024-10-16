@@ -1,4 +1,4 @@
-# 🖥️ AtliQ Hardware - Sales and Finance Analytics in Excel 📊
+# 🖥️ AtliQ Hardware - Sales and Finance Analytics in Excel
 
 This project involves developing a comprehensive analytics solution for AtliQ Hardware using **Microsoft Excel**, focused on sales and financial performance. The project is designed to address key business needs by providing insights and reports that help in effective decision-making.
 
