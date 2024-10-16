@@ -32,7 +32,7 @@ As part of this project, the following specific reports were developed:
 
 ## 🛠️ Technical & Soft Skills
 **Technical Skills**:
-- Proficient in data cleaning and analysis using Excel functions like VLOOKUP, INDEX-MATCH, Pivot Tables, and conditional formatting.
+- Proficient in data cleaning and analysis using Excel functions like VLOOKUP, INDEX-MATCH, Pivot Tables, Power Query, and conditional formatting.
 - Skillful in creating dynamic reports and dashboards with Excel.
 - Capable of deriving fiscal months and quarters from raw data.
 - Expertise in integrating supplementary data into existing Excel models.
