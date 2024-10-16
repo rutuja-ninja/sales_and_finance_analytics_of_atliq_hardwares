@@ -1,52 +1,55 @@
-# 📊 Sales and Finance Analytics of AtliQ Hardware
+# AtliQ Hardware - Sales and Finance Analytics Dashboard
 
-## Sales Report
+This project involves developing a comprehensive analytics dashboard for AtliQ Hardware, focused on sales and financial performance. The project is designed to address key business needs by providing insights and reports that help in effective decision-making.
 
-### 🎯 Project Goals:
-- **Customer Performance Report**: Developed an insightful report to evaluate and monitor customer performance across various metrics.
-- **Market Performance Analysis**: Conducted in-depth analysis to compare market performance against predefined sales targets.
-- **Purpose**: To empower businesses by providing actionable insights that help monitor, evaluate, and improve sales activities.
+## Project Goals
 
-### 💡 Importance of Sales Data Analysis:
-Understanding sales patterns, identifying key performance indicators, and guiding informed business decisions.
+### Sales Analytics
+1. **Customer Performance Report**: Developed a detailed report to assess customer performance across different markets.
+2. **Market Performance Comparison**: Conducted a comparative analysis to evaluate market performance against sales targets.
+3. **Sales Analytics Purpose**: Enable the business to monitor, evaluate, and enhance their sales activities and outcomes.
 
-### 🛠️ Reports' Role:
-- Assisting in determining optimal customer discounts.
-- Enhancing negotiation strategies with data-backed insights.
-- Highlighting opportunities for expansion in emerging markets.
+**Importance of Sales Data Analysis**:
+- Unveils sales patterns, tracks key performance indicators (KPIs), and drives informed business decisions.
+- Supports determining effective customer discounts, negotiation facilitation, and identifying expansion opportunities in potential markets.
 
----
+### Finance Analytics
+1. **Profit and Loss (P&L) Reports**: Created P&L reports by fiscal year and month.
+2. **P&L Reports by Markets**: Generated detailed P&L reports categorized by different markets, including consolidated P&L by market for all years.
+3. **Finance Analytics Purpose**: Evaluate financial performance, assist in decision-making, and foster effective stakeholder communication.
 
-## Finance Report
+**Importance of Finance Data Analysis**:
+- Benchmarking against industry peers and historical performance to inform budgeting and forecasting.
+- Aligns financial planning with strategic objectives, instilling confidence in the organization's financial outlook.
 
-### 🎯 Project Goals:
-- **P&L Reports by Fiscal Years & Markets**: Generated detailed Profit & Loss (P&L) reports categorized by fiscal years, fiscal months, and across different markets.
-- **Comprehensive P&L Reports**: Included P&L by each year and across all markets for multiple years to offer a holistic view of financial performance.
-- **Purpose**: Evaluate financial health, support strategic decision-making, and improve communication with stakeholders.
+## Key Features
+As part of this project, the following specific reports were developed:
+1. **Top 10 Products**: Identified the top 10 best-performing products of AtliQ Hardware.
+2. **Net Sales by Division**: Analyzed net sales distribution across different product divisions.
+3. **Top 5 and Bottom 5 Products by Quantity Sold**: Highlighted both best and least performing products based on sales quantity.
+4. **New Products of 2021**: Analyzed sales performance of new product launches in 2021.
+5. **Top 5 Countries by Net Sales in 2021**: Identified the top 5 countries contributing the most to net sales in 2021.
 
-### 💡 Importance of Finance Data Analysis:
-Benchmarking performance against industry standards, previous periods, and forming a strong foundation for budgeting and forecasting.
+## Technical & Soft Skills
+**Technical Skills:**
+- Proficient in ETL methodology (Extract, Transform, Load).
+- Skillful in creating date tables using Power Query.
+- Capable of deriving fiscal months and quarters.
+- Expertise in establishing data model relationships with Power Pivot.
+- Integrating supplementary data into existing data models.
+- Skilled in using DAX to create calculated columns and measures.
 
-### 🛠️ Reports' Role:
-- Aligning financial planning with strategic goals.
-- Boosting confidence in the company’s financial outlook.
+**Soft Skills:**
+- Comprehensive understanding of Sales & Finance Reports.
+- Designing user-centric reports with empathy and attention to stakeholder needs.
+- Optimizing report generation through meticulous fine-tuning.
+- Developing a systematic approach to creating report-building plans.
 
----
+## Learnings and Implementation
+Throughout this project, I have gained hands-on experience in:
+- Efficient data modeling to enhance report performance.
+- Creating dynamic and interactive reports using Power BI.
+- Implementing best practices in data visualization for clear and concise presentations.
 
-## 🔧 Technical & Soft Skills:
-- **ETL Mastery**: Proficient in Extract, Transform, Load (ETL) processes to streamline data workflows.
-- **Power Query**: Skilled in creating custom date tables and deriving fiscal months and quarters.
-- **Data Modeling**: Establishing robust data model relationships with Power Pivot.
-- **Data Integration**: Merging supplementary data seamlessly into existing models.
-- **DAX Expertise**: Creating complex calculated columns using DAX for deeper insights.
-
-### 🤝 Soft Skills:
-- Deep understanding of sales and finance reporting requirements.
-- User-focused design approach for creating intuitive and impactful reports.
-- Precision in optimizing report generation for maximum efficiency.
-- Systematic and organized in planning report-building processes.
-
----
-
-**Check out the detailed project reports [here](#).**  
-I welcome your feedback and insights! Let's keep pushing forward on this data-driven journey. 🚀
+## Feedback & Collaboration
+Your thoughts and feedback are highly appreciated. Feel free to explore the project details and let's continue this data-driven journey together!
