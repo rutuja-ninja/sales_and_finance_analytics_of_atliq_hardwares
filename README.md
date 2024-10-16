@@ -5,8 +5,8 @@ This project involves developing a comprehensive analytics solution for AtliQ Ha
 ## 🎯 Project Goals
 
 ### Sales Analytics 📈
-1. **Customer Performance Report**: Developed a detailed report to assess customer performance across different markets.
-2. **Market Performance Comparison**: Conducted a comparative analysis to evaluate market performance against sales targets.
+1. **Customer Performance Report**: Developed a [detailed report](https://github.com/rutuja-ninja/sales_and_finance_analytics_of_atliq_hardwares/blob/main/Sales%20Analytics%20Reports/Customer%20Performance%20Report%20of%20AtliQ%20Hardwares.pdf) to assess customer performance across different markets.
+2. **Market Performance Comparison**: Conducted a [comparative analysis](https://github.com/rutuja-ninja/sales_and_finance_analytics_of_atliq_hardwares/blob/main/Sales%20Analytics%20Reports/Market%20Performance%20vs%20Target%20Report%20of%20AtliQ%20Hardwares.pdf) to evaluate market performance against sales targets.
 3. **Sales Analytics Purpose**: Enable the business to monitor, evaluate, and enhance their sales activities and outcomes.
 
 **🔍 Importance of Sales Data Analysis**:
@@ -14,8 +14,8 @@ This project involves developing a comprehensive analytics solution for AtliQ Ha
 - Supports determining effective customer discounts, negotiation facilitation, and identifying expansion opportunities in potential markets.
 
 ### Finance Analytics 💵
-1. **Profit and Loss (P&L) Reports**: Created P&L reports by fiscal year and month.
-2. **P&L Reports by Markets**: Generated detailed P&L reports categorized by different markets, including consolidated P&L by market for all years.
+1. **Profit and Loss (P&L) Reports**: Created P&L reports by [fiscal year](https://github.com/rutuja-ninja/sales_and_finance_analytics_of_atliq_hardwares/blob/main/Finance%20Analytics%20Reports/P%26L%20Statement%20by%20Fiscal%20Years.pdf) and [fiscal month](https://github.com/rutuja-ninja/sales_and_finance_analytics_of_atliq_hardwares/blob/main/Finance%20Analytics%20Reports/P%26L%20Statement%20by%20Fiscal%20Months.pdf).
+2. **P&L Reports by Markets**: Generated detailed P&L reports categorized by different markets, including [consolidated P&L by market for all years](https://github.com/rutuja-ninja/sales_and_finance_analytics_of_atliq_hardwares/blob/main/Finance%20Analytics%20Reports/P%26L%20Statement%20by%20Market%20for%20All%20Fiscal%20Years.pdf).
 3. **Finance Analytics Purpose**: Evaluate financial performance, assist in decision-making, and foster effective stakeholder communication.
 
 **📊 Importance of Finance Data Analysis**:
@@ -23,7 +23,7 @@ This project involves developing a comprehensive analytics solution for AtliQ Ha
 - Aligns financial planning with strategic objectives, instilling confidence in the organization's financial outlook.
 
 ## 🌟 Key Features
-As part of this project, the following specific reports were developed:
+As part of this project, the following [specific reports](https://github.com/rutuja-ninja/sales_and_finance_analytics_of_atliq_hardwares/tree/main/Stakeholders%20Requests) were developed:
 1. **🏆 Top 10 Products**: Identified the top 10 best-performing products of AtliQ Hardware.
 2. **💼 Net Sales by Division**: Analyzed net sales distribution across different product divisions.
 3. **📉 Top 5 and Bottom 5 Products by Quantity Sold**: Highlighted both best and least performing products based on sales quantity.
